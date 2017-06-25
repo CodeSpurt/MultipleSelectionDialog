@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultipleSelectionDialog</string>
+
+    <string name="open_dialog">Open Dialog</string>
+</resources>
